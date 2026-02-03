@@ -13,7 +13,7 @@ payload = {
     "email": "eugeneban18@gmail.com",
     "resume_link": "https://drive.google.com/file/d/1vmjzzci2tiwVxWU_0B3TcGABthThWHPQ/view",
     "repository_link": "https://github.com/keizir/application-submission",
-    "action_run_link": "https://github.com/keizir/application-submission/actions/runs/123123",
+    "action_run_link": "https://github.com/keizir/application-submission/actions/runs/21628121625",
 }
 
 body = json.dumps(
